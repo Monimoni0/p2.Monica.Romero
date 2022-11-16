@@ -10,7 +10,7 @@
 
 [Demo](https://youtu.be/YFltciBmev4)
 
-[Gif Demo](https://giphy.com/gifs/NCBxL8PffoZsWei947)
+[Gif Demo](https://media.giphy.com/media/lc0yWQkwvGgRjCNXfq/giphy.gif)
 
 
 ![Elevator_Image1_Monimoni0](project 2.pdf)
