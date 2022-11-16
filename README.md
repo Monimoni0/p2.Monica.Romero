@@ -17,17 +17,22 @@
 **Common elevator uses:** </br>
 
 ### Getting C:
-Provide the Sketch of your interface
-Include the general information in your sketch: personalized calendar, news feed, text messages, social feed items, clock, and weather.
+Provide the Sketch
+news feed: pop up that provides the lates json news 
+clock; located at the top of the mirror
+weather: pop up that shows the high temperature, low temperature, and conditions for today and the rest of the week
+
 Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
+personal information: information like sleep, weight, excercise times for today and the week are available using json
 
 ### Getting B:
-Implement your Sketch in Processing or p5.js
-Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a file or api).
+Implement your Sketch in Processing or p5.js.
+calendar, news, clock, local weather are all read from json file 
 Implement the health-related information in your sketch (select one of these): sleep, weight, exercises, and mirror time (from a csv or json file).
+sleep, weight, excersise visible through the personal popup
 
 ### Getting A
 
-- Implement one of the advanced features
-Provide your github report page and 2-minute presentation video
-Please pay attention on the overal design and layout, and usability of your final interface
+- Implement one advanced feature
+flashlight available through lightbulb image in userface. User can choose from a rainbow of colors.
+presentation video available through demo link above.
