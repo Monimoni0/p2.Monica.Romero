@@ -1,0 +1,6 @@
+{
+    "this":[{"monday": 10, "tueday": 3, "wednesday": 6, "thursday": 4, "friday": 8,
+    "saturday": 7, "sunday": 2}], 
+    "last":[{"monday": 9, "tueday": 4, "wednesday": 4, "thursday": 12, "friday": 4,
+    "saturday": 1, "sunday": 8}]
+}

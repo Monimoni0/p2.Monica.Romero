@@ -1,0 +1,7 @@
+{
+    "november": [{"date": 15, "event": "doctor's appoint ment at 8"},
+    {"date": 16, "event":"lunch with mom at 12"},
+    {"date": 24, "event":"Thanksgiving dinner at 6"}],
+    "december":[{"date": 24, "event":"Christmas Eve"},{"date": 25, "event":"Christmas"},
+     {"date":31, "event": "new years eve"}]
+}

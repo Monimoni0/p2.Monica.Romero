@@ -1,0 +1,19 @@
+{
+    "this sleep":{"sleep": 8, "deep": 6, "light": 2 },
+    "last week sleep":{"monday": 8, "tuesday": 9, "wednesday": 7, "thursday": 9, "friday": 10, 
+    "saturday": 10, "sunday": 6}, 
+    "current weight": 150,
+    "last week weight": {"monday": 152, "tuesday": 150, "wednesday": 151, "thursday": 150, "friday": 150, 
+    "saturday": 151, "sunday": 150},
+    "steps": 10050, 
+    "stand": "5 hours",
+    "excersize": "1 hour", 
+    "last week stats": {"monday": {"steps": 10000,"stand": "2 hours", "excersize": "1 hour"},
+     "tuesday": {"steps": 10200,"stand": "1 hours", "excersize": "1 hour"},
+      "wednesday": {"steps": 10003,"stand": "4 hours", "excersize": "1 hour"}, 
+      "thursday": {"steps": 15000,"stand": "6 hours", "excersize": "1 hour"}, 
+      "friday": {"steps": 10060,"stand": "2 hours", "excersize": "0 hours"}, 
+    "saturday": {"steps": 10600,"stand": "1 hours", "excersize": "1 hour"},
+     "sunday": {"steps": 10001,"stand": "3 hours", "excersize": "0 hour"}}
+
+}

@@ -1,0 +1,11 @@
+{
+    "today":{"high": 80, "low": 60, "condition": "sunny"},
+    "tomorrow":{"high": 81, "low": 62, "condition": "cloudy"}, 
+    "week":{"monday":{"high": 37, "low": 20, "condition": "rainy"}, 
+    "tuesday":{"high": 57, "low": 32,  "condition": "sunny"},
+    "wednesday":{"high": 81, "low": 42, "condition": "cloudy"},
+    "thursday":{"high": 90, "low": 63, "condition": "windy"},
+    "friday":{"high": 84, "low": 36, "condition": "sunny"},
+    "saturday":{"high": 81, "low": 25, "condition": "sunny"},
+    "sunday":{"high": 70, "low": 62, "condition": "windy"}}
+}
