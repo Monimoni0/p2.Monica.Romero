@@ -12,24 +12,23 @@
 
 [Gif Demo](https://media.giphy.com/media/lc0yWQkwvGgRjCNXfq/giphy.gif)
 
-
-![Elevator_Image1_Monimoni0](p2.png)
-**Common elevator uses:** </br>
-
 ### Getting C:
 Provide the Sketch
+![Image](p2.png)
 news feed: pop up that provides the lates json news 
 clock; located at the top of the mirror
 weather: pop up that shows the high temperature, low temperature, and conditions for today and the rest of the week
+calendar: shows events for this month and next month
+flash: provides an extra pop of light. user can decide which color the flash can be
 
-Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
-personal information: information like sleep, weight, excercise times for today and the week are available using json
+Include the health-related information in your sketch: sleep, exercises, etc.
+personal information: information like sleep, weight, excercise times for today and the week are available in personal icon using json
 
 ### Getting B:
 Implement your Sketch in Processing or p5.js.
 calendar, news, clock, local weather are all read from json file 
 Implement the health-related information in your sketch (select one of these): sleep, weight, exercises, and mirror time (from a csv or json file).
-sleep, weight, excersise visible through the personal popup
+sleep, weight, excersise visible through the personal popup using json
 
 ### Getting A
 
