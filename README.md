@@ -13,7 +13,7 @@
 [Gif Demo](https://media.giphy.com/media/lc0yWQkwvGgRjCNXfq/giphy.gif)
 
 
-![Elevator_Image1_Monimoni0](project 2.pdf)
+![Elevator_Image1_Monimoni0](p2.png)
 **Common elevator uses:** </br>
 
 ### Getting C:
